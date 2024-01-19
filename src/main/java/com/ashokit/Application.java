@@ -16,5 +16,12 @@ public class Application {
     public ModelMapper modelMapper() {
         return new ModelMapper();
     }
+	
+	//create temp method
+	
+	public void test(){
+		
+		System.out.println("hello");
+	}
 
 }
