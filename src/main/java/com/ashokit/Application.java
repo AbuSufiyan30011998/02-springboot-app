@@ -38,13 +38,5 @@ public class Application {
 		
 	}
 	
-	
-	//hello
-	
-	
-	
-	
-	
-	
 
 }
