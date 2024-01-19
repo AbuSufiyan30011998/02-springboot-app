@@ -21,7 +21,7 @@ public class Application {
 	
 	public void test(){
 		
-		System.out.println("hello");
+		System.out.println("hello java ");
 	}
 
 }
