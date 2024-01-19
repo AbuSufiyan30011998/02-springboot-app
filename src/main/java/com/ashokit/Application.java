@@ -21,7 +21,13 @@ public class Application {
 	
 	public void test(){
 		
-		System.out.println("hello");
+		System.out.println("hello java ");
+	}
+	
+	
+	public void test1(int a){
+		
+		System.out.println(20);
 	}
 	
 	
