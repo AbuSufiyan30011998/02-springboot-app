@@ -23,5 +23,14 @@ public class Application {
 		
 		System.out.println("hello");
 	}
+	
+	
+	//2nd method
+	public void test2(int b){
+		
+		System.out.println(40);
+		
+	}
+	
 
 }
