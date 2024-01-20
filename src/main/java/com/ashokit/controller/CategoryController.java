@@ -13,6 +13,7 @@ import javax.validation.Valid;
 import java.util.List;
 
 @RestController
+@RequestMapping("/v1")
 public class CategoryController {
 
     @Autowired

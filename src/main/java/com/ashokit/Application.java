@@ -23,5 +23,30 @@ public class Application {
 		
 		System.out.println("hello java ");
 	}
+	
+	
+	public void test1(int a){
+		
+		System.out.println(20);
+	}
+	
+	
+	//2nd method
+	public void test2(int b){
+		
+		System.out.println(40);
+		
+	}
+	
 
+
+
+
+
+
+
+
+
+
+//java
 }
