@@ -13,6 +13,10 @@ import javax.validation.Valid;
 import java.util.List;
 
 @RestController
+<<<<<<< Updated upstream
+=======
+@RequestMapping("/api/v1")
+>>>>>>> Stashed changes
 public class CategoryController {
 
     @Autowired
