@@ -10,10 +10,14 @@ import javax.validation.Valid;
 import java.util.List;
 
 @RestController
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 =======
 @RequestMapping("/api/v1")
 >>>>>>> Stashed changes
+=======
+@RequestMapping("/v1")
+>>>>>>> 331dc15499718675272d884e46da6662c22dae74
 public class UserController {
 
 
